@@ -7,6 +7,7 @@ Screen shots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eeaf9f0b-36ea-4fdc-acd8-e35137deeeac" />
 
 
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/e16e01b9-90a2-4b9e-b431-ee3e3e0baaec" />
 
 
 
