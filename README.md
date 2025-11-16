@@ -9,6 +9,9 @@ Screen shots
 
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/e16e01b9-90a2-4b9e-b431-ee3e3e0baaec" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0a9ae1b-edb2-451f-a52a-50e926531987" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e92966d9-3314-45fa-957f-127c90024a40" />
+
 
 
 
